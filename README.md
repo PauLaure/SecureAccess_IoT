@@ -1,4 +1,4 @@
-# Project Name
+# Secure Access IoT
 
 This project is a collection of Python scripts for handling different functionalities such as creating a database, sending emails, and communicating via MQTT.
 
